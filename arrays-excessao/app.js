@@ -26,4 +26,3 @@ listaDeProdutosOrdenados.forEach(produto => console.log(`Este produto esta dispo
 }catch(e){
     console.log('Nao foi possivel executar o pedido de compra');
 }
-
